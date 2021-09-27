@@ -15,8 +15,8 @@ For this, I use tools such as: Linux, Python, R, SQL, Google BigQuery, Tableau, 
   <img align="center" alt="Igor-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Igor-GoogleCloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Igor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Igor-Excel" height="30" width="40" src="https://img.icons8.com/color/480/000000/microsoft-excel-2019--v1.png"/>
-  <img align="center" alt="Igor-Tableau" height="30" width="40" src="https://img.icons8.com/color/480/000000/tableau-software.png"/>
+  <img align="center" alt="Igor-Excel" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
+  <img align="center" alt="Igor-Tableau" height="30" width="40" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
 </div>
     
    ##
