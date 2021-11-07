@@ -1,7 +1,7 @@
 ## Hi! my name is Igor. I'm Data Analyst 👨‍💻 
 
 #### As a Data Analyst, seeing that with data we can solve complex problems and transform people's lives for the better regardless of scope is a very rewarding and fulfilling feeling. And finding answers and solutions to that is what motivates me.
-For this, I use tools such as: Linux, Python, R, SQL, Google BigQuery, Tableau, Excel and Google Sheets.
+For this, I use tools such as: Linux, Python, R, SQL, Google BigQuery, Power BI, Excel and Google Sheets.
 
 <div>
   <a href="https://github.com/igorwsilveira">
@@ -14,9 +14,9 @@ For this, I use tools such as: Linux, Python, R, SQL, Google BigQuery, Tableau, 
   <img align="center" alt="Igor-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Igor-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Igor-GoogleCloud" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Igor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Igor-PowerBI" height="30" width="40" src="https://img.icons8.com/color/144/000000/power-bi.png"/>
   <img align="center" alt="Igor-Excel" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
-  <img align="center" alt="Igor-Tableau" height="30" width="40" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
+  <img align="center" alt="Igor-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
     
    ##
